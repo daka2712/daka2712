@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Daniel Kennedy
-- 👀 I’m interested in Linux/Java technology, music and movies.
-- 🌱 I’m currently learning more Java and English
-- 💞️ I’m looking to collaborate on diferents software proyects
-- 📫 How to reach me ... daka2712@ gmail.com
+- 👋 Hi, I’m Daniel Kennedy from México City :)
+- 👀 I’m interested in Linux/Java technology, travel, music and movies, I like to play guitar, and enjoy my family all days.
+- 🌱 I’m currently learning more Java (never end) and improving my English language.
+- 💞️ I’m looking to collaborate on diferents software proyects with international teams across the world working from México.
+- 📫 How to reach me ... daka2712@gmail.com
 
 <!---
 daka2712/daka2712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
