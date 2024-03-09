@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Kennedy from México City :)
-- 👀 I’m interested in Linux/Java technology, travel, music and movies, I like to play guitar, and enjoy my family all days.
-- 🌱 I’m currently learning more Java (never end) and improving my English language.
+- 👀 I’m interested in AI, Linux/Java technology, Business, travel, music and movies, I like to play guitar, and enjoy my family all days.
+- 🌱 I’m currently learning more AI, Phyton, Java (never end) and improving my English language.
 - 💞️ I’m looking to collaborate on diferents software proyects with international teams across the world working from México.
 - 📫 How to reach me ... daka2712@gmail.com
 
